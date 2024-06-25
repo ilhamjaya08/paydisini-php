@@ -1,0 +1,18 @@
+{
+    "name": "ilhamjaya08/paydisini-php",
+    "description": "Paydisini API Wrapper Class for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ilhamjaya08\\PaydisiniPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilhamjaya08",
+            "email": "m.ilhamjaya1808@gmail.com"
+        }
+    ],
+    "require": {}
+}
